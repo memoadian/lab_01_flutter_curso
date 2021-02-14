@@ -1,6 +1,6 @@
-# lab_01
+# lab_01_flutter_curso
 
-A new Flutter project.
+Flutter application
 
 ## Getting Started
 
